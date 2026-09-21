@@ -17,6 +17,32 @@
 
 ![Labeled assembly diagram of PVC barrel launcher](assets/launcher-assembly-diagram.png)
 
+### Angle vs pullback vs trigger (read this if the diagram feels confusing)
+
+![Three-panel diagram: angle aim, pullback energy, trigger fire](assets/angle-pullback-trigger-explained.png)
+
+These are **three different jobs**. Mixing them up is the usual source of confusion.
+
+| System | What it controls | What you move | What it does *not* do |
+|---|---|---|---|
+| **1. Angle** | Launch **direction** (up/down) | Tilt the barrel cradle on the carriage-bolt pivot, then tighten the **wing nut** | Does not store energy or fire the ball |
+| **2. Pullback** | Launch **speed** (how hard) | Pull the plunger **backward** so the bungees stretch | Does not set the angle |
+| **3. Trigger** | **When** it fires | Pull the string **sideways** so the pin slides out | Your hand must not hold/release the elastic itself |
+
+**1. Angle system (aim)**  
+The barrel sits in a wood cradle that hinges on a bolt through the uprights. You tilt the barrel until the cradle lines up with a painted mark (**35°, 40°, 45°, 50°, or 55°**), then snug the wing nut so it stays put. Think of this like aiming a garden hose up or down — aiming only.
+
+**2. Pullback (store energy)**  
+With the angle already locked, put the golf ball in the barrel, then pull the plunger rod **back**. That stretches the bungee loops. Farther pullback (or more bungee strands) → higher launch speed → longer range. While cocked, a notch on the plunger lines up with a hole in the barrel.
+
+**3. Trigger (fire)**  
+Slide the metal pin through the barrel hole into that plunger notch. The pin is what holds everything cocked — not your hand. Tie twine to the pin. To fire, stand aside and **pull the string sideways**. The pin comes out → bungees yank the plunger forward → plunger hits the ball → ball leaves the barrel. That satisfies the rubric: you release the trigger without touching any other part of the launcher.
+
+**One firing sequence**
+1. Unlock wing nut → set angle mark → lock wing nut  
+2. Load golf ball → pull plunger back (stretch bungees) → insert pin  
+3. Clear the area → pull trigger string sideways → ball launches  
+
 ### Where to drive from Trabuco Canyon
 
 ![Store route from Trabuco Canyon to Home Depot and Harbor Freight Lake Forest](assets/trabuco-canyon-store-route.png)
