@@ -29,19 +29,52 @@ These are **three different jobs**. Mixing them up is the usual source of confus
 | **2. Pullback** | Launch **speed** (how hard) | Pull the plunger **backward** so the bungees stretch | Does not set the angle |
 | **3. Trigger** | **When** it fires | Pull the string **sideways** so the pin slides out | Your hand must not hold/release the elastic itself |
 
-**1. Angle system (aim)**  
-The barrel sits in a wood cradle that hinges on a bolt through the uprights. You tilt the barrel until the cradle lines up with a painted mark (**35°, 40°, 45°, 50°, or 55°**), then snug the wing nut so it stays put. Think of this like aiming a garden hose up or down — aiming only.
-
-**2. Pullback (store energy)**  
-With the angle already locked, put the golf ball in the barrel, then pull the plunger rod **back**. That stretches the bungee loops. Farther pullback (or more bungee strands) → higher launch speed → longer range. While cocked, a notch on the plunger lines up with a hole in the barrel.
-
-**3. Trigger (fire)**  
-Slide the metal pin through the barrel hole into that plunger notch. The pin is what holds everything cocked — not your hand. Tie twine to the pin. To fire, stand aside and **pull the string sideways**. The pin comes out → bungees yank the plunger forward → plunger hits the ball → ball leaves the barrel. That satisfies the rubric: you release the trigger without touching any other part of the launcher.
+**1. Angle system (aim)** — see blueprints below for the exact joint  
+**2. Pullback (store energy)** — pull plunger back to stretch bungees (speed only)  
+**3. Trigger (fire)** — pin holds the cocked plunger; pull string sideways to release  
 
 **One firing sequence**
-1. Unlock wing nut → set angle mark → lock wing nut  
+1. Loosen wing nut → rotate cradle to angle mark → tighten wing nut  
 2. Load golf ball → pull plunger back (stretch bungees) → insert pin  
 3. Clear the area → pull trigger string sideways → ball launches  
+
+### Angle joint blueprints (how the adjustable angle actually works)
+
+The angle is **not** a hinge screwed to the barrel. It is a **friction clamp**:
+
+- Two **uprights** are fixed to the base (they never tilt).
+- A **cradle** (two cheeks + floor) holds the PVC barrel and sits *between* the uprights.
+- One **5/16" × 4" carriage bolt** goes through: upright → washer → cradle → washer → upright → **wing nut**.
+- Loosen the wing nut → cradle+barrel rotate on the bolt → line a pointer up with **35 / 40 / 45 / 50 / 55** painted on an upright → tighten the wing nut so friction locks the angle.
+
+![Orthographic angle-adjust blueprint: side, front, pivot sandwich](assets/angle-adjust-blueprint.jpg)
+
+![1x3 furring cut list and angle-joint build sheet](assets/angle-joint-furring-blueprint.jpg)
+
+#### Cut list from the two 1×3×8 ft furring strips (Model `164704`)
+
+| Part | Qty | Length | Drill |
+|---|---|---|---|
+| A — Base cross piece | 2 | 50 cm | — |
+| B — Base side rail | 2 | 25 cm | — |
+| C — Upright | 2 | 35 cm | 5/16" hole, centered, **8 cm down from top** |
+| D — Cradle cheek | 2 | 28 cm | 5/16" hole, **6 cm from rear**, **3 cm up from bottom** |
+| E — Cradle floor | 1 | 28 cm | — (sits between the two cheeks) |
+
+Actual 1×3 size is about **0.75" × 2.5"**. Screw base A/B into a rectangle first, then screw uprights C to the base, then build cradle D+E, strap the 2" PVC on top of E, then slide the bolt sandwich together.
+
+#### Bolt sandwich order (front view through the pivot)
+
+`bolt head → left upright C → washer → left cheek D → cradle floor E (+ barrel on top) → right cheek D → washer → right upright C → wing nut`
+
+**Only the cradle + barrel rotate.** Uprights stay fixed. Misaligned pivot holes make the angle sticky — clamp both uprights together and drill once; clamp both cheeks together and drill once.
+
+#### Paint the angle scale
+
+1. Temporarily tighten at roughly 45°.  
+2. Use a protractor against the barrel centerline / cradle pointer.  
+3. Mark **35°, 40°, 45°, 50°, 55°** on the outside of one upright.  
+4. Add a Sharpie pointer line on the cradle cheek that lines up with those marks.
 
 ### Where to drive from Trabuco Canyon
 
@@ -185,9 +218,9 @@ If you want more cord lengths for light/medium/heavy velocity settings:
 
 ## Build steps (map parts → rubric points)
 
-1. **Base** — Cut furring into a wide rectangle (~50 × 25 cm) so the launcher does not tip when elastic fires. Overall envelope must stay inside **70 cm**.
-2. **Uprights** — Two vertical pieces with aligned holes for the carriage bolt.
-3. **Cradle** — Wood U-channel that clamps the PVC; swings on the bolt; wing nut locks angle.
+1. **Base** — Screw parts A+B into a ~50 × 25 cm rectangle so the launcher does not tip. Overall envelope must stay inside **70 cm**.
+2. **Uprights** — Screw parts C to the base. Clamp both and drill the shared 5/16" pivot hole (see angle blueprints above).
+3. **Cradle** — Screw cheeks D to floor E; strap PVC on E; bolt sandwich through uprights; wing nut locks angle by friction.
 4. **Barrel** — Cut 2" PVC to ~50–55 cm. Drill one small breech hole for the trigger pin. Sand the muzzle smooth.
 5. **Plunger** — Drill the PVC cap; fasten the dowel centered. File a notch near the rear of the dowel for the pin. Front face pushes the golf ball.
 6. **Elastic** — Loop HDX bungees from rear eye bolts / cradle anchors to a cross-pin on the plunger so stretch energy drives **along the barrel axis** (not a swinging arm).
