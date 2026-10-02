@@ -40,12 +40,19 @@ These are **three different jobs**. Mixing them up is the usual source of confus
 
 ### Angle joint blueprints (how the adjustable angle actually works)
 
-The angle is **not** a hinge screwed to the barrel. It is a **friction clamp**:
+**Start with this sheet** — it is an exact cut-and-assemble sequence:
 
-- Two **uprights** are fixed to the base (they never tilt).
-- A **cradle** (two cheeks + floor) holds the PVC barrel and sits *between* the uprights.
-- One **5/16" × 4" carriage bolt** goes through: upright → washer → cradle → washer → upright → **wing nut**.
-- Loosen the wing nut → cradle+barrel rotate on the bolt → line a pointer up with **35 / 40 / 45 / 50 / 55** painted on an upright → tighten the wing nut so friction locks the angle.
+![Step-by-step angle joint build blueprint](assets/angle-joint-step-by-step-blueprint.png)
+
+The angle is **not** a door hinge on the barrel. It is a **friction clamp / seesaw**:
+
+1. Cut the 1×3 pieces (A–E) and drill the 5/16" holes where marked.
+2. Screw base A+B, then screw uprights **C** to the base (**fixed** — they never tilt).
+3. Build cradle **D+E**, strap the PVC on it (**this tilts**).
+4. Bolt through: upright → washer → cheek → floor/barrel → cheek → washer → upright → **wing nut**.
+5. Loosen wing nut → tilt cradle to 35/40/45/50/55 → tighten wing nut.
+
+Extra orthographic views (same joint):
 
 ![Orthographic angle-adjust blueprint: side, front, pivot sandwich](assets/angle-adjust-blueprint.jpg)
 
@@ -61,20 +68,20 @@ The angle is **not** a hinge screwed to the barrel. It is a **friction clamp**:
 | D — Cradle cheek | 2 | 28 cm | 5/16" hole, **6 cm from rear**, **3 cm up from bottom** |
 | E — Cradle floor | 1 | 28 cm | — (sits between the two cheeks) |
 
-Actual 1×3 size is about **0.75" × 2.5"**. Screw base A/B into a rectangle first, then screw uprights C to the base, then build cradle D+E, strap the 2" PVC on top of E, then slide the bolt sandwich together.
+Actual 1×3 size is about **0.75" × 2.5"**.
 
 #### Bolt sandwich order (front view through the pivot)
 
 `bolt head → left upright C → washer → left cheek D → cradle floor E (+ barrel on top) → right cheek D → washer → right upright C → wing nut`
 
-**Only the cradle + barrel rotate.** Uprights stay fixed. Misaligned pivot holes make the angle sticky — clamp both uprights together and drill once; clamp both cheeks together and drill once.
+**Only the cradle + barrel rotate.** Uprights stay fixed. Clamp both uprights together and drill once; clamp both cheeks together and drill once.
 
 #### Paint the angle scale
 
-1. Temporarily tighten at roughly 45°.  
-2. Use a protractor against the barrel centerline / cradle pointer.  
+1. Temporarily tighten near 45°.  
+2. Use a protractor along the barrel centerline.  
 3. Mark **35°, 40°, 45°, 50°, 55°** on the outside of one upright.  
-4. Add a Sharpie pointer line on the cradle cheek that lines up with those marks.
+4. Put a Sharpie pointer on the cradle cheek that lines up with those marks.
 
 ### Where to drive from Trabuco Canyon
 
