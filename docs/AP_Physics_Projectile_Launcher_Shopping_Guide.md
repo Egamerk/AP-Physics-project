@@ -167,6 +167,31 @@ A single pivot **is** enough for aiming, but you are right that cocking bungees 
 
 Aiming = one axis. Holding against elastic = clamp + pin + solid base.
 
+#### Full system: how the bungee propulsion works (most efficient layout)
+
+![Full system side view: bungee, plunger, trigger, angle lock](assets/full-system-bungee-launcher.png)
+
+**Most efficient setup (use this):**
+
+| Part | Where | Why |
+|---|---|---|
+| Eye-bolt anchors | On the **cradle**, toward the **muzzle / forward** end | Bungees pull the plunger **forward** along the barrel |
+| Bungees (2–4 strands) | From forward eye bolts → hook/pin on **rear of plunger** | Stretch when cocked; release drives shot |
+| Plunger | Dowel + 2" PVC **cap** face inside barrel | Flat push on the golf ball = better energy transfer |
+| Trigger | Pin through barrel wall into plunger notch + side string | Rubric-legal clean release |
+| Angle | Pivot bolt + wing nut + **lock pin** at degree holes | Aim, then hard-lock before cocking |
+
+**Energy path:** pull plunger back → bungees stretch → insert pin → yank string → pin out → bungees yank plunger forward → cap hits ball → ball exits muzzle.
+
+**Why this beats other layouts**
+- Force is along the barrel axis (least wasted energy)
+- Anchors on the cradle (doesn’t rip the angle joint off the base)
+- Forward anchors (backward anchors would pull the wrong way)
+- Cap face > bare dowel tip
+- Extra bungee strands or deeper cocking notches = more range for the 8 m test
+
+**Do not:** hold/release bungees by hand; mount anchors only on the floor base; put the pivot bolt through the PVC.
+
 #### What the wing nut screws onto (and why straight posts are fine)
 
 ![Wing nut on bolt threads; pivot geometry vs hypotenuse trap](assets/wingnut-threads-and-pivot-geometry.png)
