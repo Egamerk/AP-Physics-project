@@ -153,6 +153,20 @@ These are **two different angles**:
 
 Optional: screw a small wood stop on a post so the cradle cannot swing past 55°.
 
+#### Elastic force and stability (your design concern)
+
+A single pivot **is** enough for aiming, but you are right that cocking bungees creates torque that can make the angle slip or tip the base.
+
+![Elastic torque problem and stability fixes](assets/elastic-stability-fixes.png)
+
+**Do this so it stays solid:**
+1. Mount the **eye bolts / bungee anchors on the cradle** (the tilting part), not on the floor base — then the stretch force rides with the barrel.
+2. Use the wide **50×25 cm base**; add weight (bag of sand/books) behind the posts if it tips when cocked.
+3. After setting the angle, drop a **lock pin/nail** through matching holes in the post + cradle at 35/40/45/50/55 so it cannot slip when elastic is stretched. Wing nut alone is friction only.
+4. Keep bungee pull fairly close to the pivot (less leverage).
+
+Aiming = one axis. Holding against elastic = clamp + pin + solid base.
+
 #### What the wing nut screws onto (and why straight posts are fine)
 
 ![Wing nut on bolt threads; pivot geometry vs hypotenuse trap](assets/wingnut-threads-and-pivot-geometry.png)
