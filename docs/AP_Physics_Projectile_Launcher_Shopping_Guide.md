@@ -97,6 +97,20 @@ Actual 1×3 size is about **0.75" × 2.5"**.
 
 **To set exactly 45°:** loosen wing nut → tilt cradle until pointer hits the **45°** paint mark → tighten wing nut until it won’t slip → then cock/fire. Turning the wing nut more does *not* increase the angle; it only clamps harder.
 
+#### What each metal piece does (simplest version)
+
+You already have the wood right: **two posts + cradle for PVC + bolt so it can rotate.**
+
+![Metal parts: bolt=axle, washers=rings, wing nut=brake](assets/metal-parts-simple.png)
+
+| Metal | Job in one word | What it does |
+|---|---|---|
+| **Carriage bolt** | Axle | Goes through posts + cradle so the cradle can spin |
+| **Washers** | Protectors | Metal rings so tightening doesn’t chew up the wood |
+| **Wing nut** | Brake | Screws onto the bolt’s threads. **Loose** = spin/aim. **Tight** = squeeze posts against cradle so friction holds the angle while you fire |
+
+That is the whole metal story. The bolt does not pick degrees. The wing nut does not pick degrees. You aim by tilting the cradle to a painted mark; the wing nut only switches between “can move” and “stays put.”
+
 #### What the wing nut screws onto (and why straight posts are fine)
 
 ![Wing nut on bolt threads; pivot geometry vs hypotenuse trap](assets/wingnut-threads-and-pivot-geometry.png)
