@@ -147,6 +147,14 @@ Actual 1×3 size ≈ **0.75" × 2.5"**.
 2. File trigger notch near rear of dowel (add extra notches for velocity settings).
 3. Cap face pushes the golf ball.
 
+### Step 5b — Plunger STOP (so it cannot fly out)
+1. Near the **muzzle**, drill a hole across the barrel and insert a **stop pin** (or long wood screw) that the **PVC cap** cannot pass.
+2. Leave enough room for the ball to exit ahead of that stop.
+3. Optional backup: a washer/screw collar on the dowel at the breech that cannot pull through a breech ring.
+4. Size bungee length so they are nearly slack when the cap reaches the stop (less violent snap).
+
+**Do not** rely on friction alone to keep the plunger in the pipe.
+
 ### Step 6 — Bungee power (most efficient layout)
 1. Screw **eye bolts into the cradle near the muzzle/forward end**.
 2. Cut hooks off HDX bungees; loop **2–4 strands** from eyes to a cross-pin on the **rear of the plunger**.
@@ -158,6 +166,18 @@ Actual 1×3 size ≈ **0.75" × 2.5"**.
 1. Drill a small hole through the barrel wall lining up with the plunger notch when cocked.
 2. Tie twine to a smooth pin.
 3. Fire by yanking string **sideways** only — do not hold the elastic by hand.
+
+### Energy storage vs what holds the plunger
+
+![Potential energy in bungees; plunger stop at muzzle](assets/plunger-stop-and-energy.png)
+
+| State | What holds the plunger | Where energy is |
+|---|---|---|
+| **Cocked** | **Trigger pin** through barrel into plunger notch | Elastic potential energy in **stretched bungees** (not “inside” the plunger) |
+| **Firing** | Nothing holds it back — bungee tension accelerates it forward | PE → kinetic energy of plunger (+ then ball) |
+| **End of stroke** | **Stop pin** across barrel that the PVC **cap** hits | Bungees nearly slack; plunger stays in the tube |
+
+The plunger is only a sliding pusher. Stretching the bungees stores the energy; the trigger pin keeps that stretch; the stop pin keeps the plunger from launching out after the ball.
 
 ### Step 8 — Keep breech over wood
 With the longer base + forward pivot, the bungee/plunger end should sit **above the platform** when aimed 35°–55°, not hanging in empty air.
