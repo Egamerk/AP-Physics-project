@@ -192,6 +192,14 @@ Aiming = one axis. Holding against elastic = clamp + pin + solid base.
 
 **Do not:** hold/release bungees by hand; mount anchors only on the floor base; put the pivot bolt through the PVC.
 
+#### After aiming — is the barrel floating?
+
+![Unlocked vs locked: not floating when clamped and pinned](assets/locked-not-floating.png)
+
+**No.** Unlocked, it can swing and *feel* floaty. Once you **tighten the wing nut and drop the lock pin**, the cradle is fixed between the two posts. The PVC is strapped to that cradle, and the posts are screwed to the base on the ground — so barrel + cradle + posts + base act like **one rigid angled piece**, not something hanging in the air. The pivot is the joint; the clamp + pin freeze that joint.
+
+Optional: add a wood kickstand from cradle to base if you want even more support.
+
 #### What the wing nut screws onto (and why straight posts are fine)
 
 ![Wing nut on bolt threads; pivot geometry vs hypotenuse trap](assets/wingnut-threads-and-pivot-geometry.png)
