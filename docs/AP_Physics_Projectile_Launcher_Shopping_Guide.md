@@ -349,10 +349,10 @@ If you want more cord lengths for light/medium/heavy velocity settings:
 2. **Uprights** — Screw parts C to the base. Clamp both and drill the shared 5/16" pivot hole (see angle blueprints above).
 3. **Cradle** — Screw cheeks D to floor E; strap PVC on E; bolt sandwich through uprights; wing nut locks angle by friction.
 4. **Barrel** — Cut 2" PVC to ~50–55 cm. Drill one small breech hole for the trigger pin. Sand the muzzle smooth.
-5. **Plunger** — Drill the PVC cap; fasten the dowel centered. File a notch near the rear of the dowel for the pin. Front face pushes the golf ball.
-6. **Elastic** — Loop HDX bungees from rear eye bolts / cradle anchors to a cross-pin on the plunger so stretch energy drives **along the barrel axis** (not a swinging arm).
-7. **Trigger** — Cock plunger → insert pin → stand clear → pull twine **sideways** so the pin clears without your hand touching any other part of the launcher.
-8. **Angles** — With a protractor, mark and label **35°, 40°, 45°, 50°, 55°** on an upright (add finer ticks if you want). First competition launch must use a **calculated** angle.
+5. **Plunger** — Drill the PVC cap; fasten the dowel centered. File a trigger notch near the rear (add extra notches for velocity settings). Front face pushes the golf ball.
+6. **Elastic** — Screw eye bolts into the **cradle near the forward/muzzle end**. Cut hooks off HDX bungees; loop **2–4 strands** from those eyes to a cross-pin on the **rear of the plunger**. Pulling back stretches them; release drives the plunger forward along the barrel.
+7. **Trigger** — Cock plunger → insert pin through barrel into notch → stand clear → pull twine **sideways** so the pin clears without your hand touching any other part of the launcher.
+8. **Angles** — Mark **35°, 40°, 45°, 50°, 55°** on an upright; drill matching **lock-pin** holes through post + cradle. First competition launch must use a **calculated** angle.
 9. **Velocity data (lab write-up)** — Collect typed range data at a fixed angle. Calculate launch speed from distance and angle only (no stopwatch), e.g.  
    \( v = \sqrt{\dfrac{R g}{\sin 2\theta}} \) for landing at the same height, or the elevated-target form when the target is up to 1.5 m high. Use enough trials for a reliable average.
 
