@@ -17,6 +17,14 @@
 
 ![Labeled assembly diagram of PVC barrel launcher](assets/launcher-assembly-diagram.png)
 
+### Different camera views of the same model
+
+![Isometric 3/4 view of angle joint](assets/launcher-isometric-view.png)
+
+![Perspective 3/4 view of the launcher](assets/launcher-perspective-view.jpg)
+
+These are the **same** left/right equal-height posts, horizontal bolt, tilting cradle, and PVC — just seen from above-right instead of straight-on.
+
 ### Angle vs pullback vs trigger (read this if the diagram feels confusing)
 
 ![Three-panel diagram: angle aim, pullback energy, trigger fire](assets/angle-pullback-trigger-explained.png)
