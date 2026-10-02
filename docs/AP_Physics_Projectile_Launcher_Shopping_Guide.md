@@ -117,6 +117,10 @@ That is the whole metal story. The bolt does not pick degrees. The wing nut does
 
 **Other post:** The bolt head is on one side, the wing nut on the other. Tightening pulls them together, so **both posts squeeze the cradle**. The second post is the other jaw of the clamp and also stops sideways wobble. You only *paint* the degree marks on one post so your eye has one scale.
 
+![Bolt head LEFT, wing nut RIGHT — both posts same height](assets/left-right-bolt-wingnut.png)
+
+**Not high vs low:** both posts are equally tall. The bolt is **horizontal** through matching holes. Put the **bolt head on the left** and the **wing nut on the right** (or swap — either works). There is no “near the ground” metal piece and “higher” metal piece.
+
 **Hitting the floor:** Can happen only if the pivot is too low or the cradle sticks too far behind the bolt (rear dips as angle goes up). With this cut list it should clear:
 - pivot high (~8 cm from top of 35 cm posts)
 - cradle hole only ~6 cm from the rear (most length points forward)
