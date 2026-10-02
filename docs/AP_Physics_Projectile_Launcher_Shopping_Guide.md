@@ -70,10 +70,10 @@ Extra orthographic views (same joint):
 
 | Part | Qty | Length | Drill |
 |---|---|---|---|
-| A — Base cross piece | 2 | 50 cm | — |
+| A — Base cross piece | 2 | **60 cm** | — (longer base so breech stays over wood) |
 | B — Base side rail | 2 | 25 cm | — |
 | C — Upright | 2 | 35 cm | 5/16" hole, centered, **8 cm down from top** |
-| D — Cradle cheek | 2 | 28 cm | 5/16" hole, **6 cm from rear**, **3 cm up from bottom** |
+| D — Cradle cheek | 2 | 28 cm | 5/16" hole **~18 cm from rear** / **~10 cm from front** (pivot closer to muzzle), **3 cm up from bottom** |
 | E — Cradle floor | 1 | 28 cm | — (sits between the two cheeks) |
 
 Actual 1×3 size is about **0.75" × 2.5"**.
@@ -199,6 +199,19 @@ Aiming = one axis. Holding against elastic = clamp + pin + solid base.
 **No.** Unlocked, it can swing and *feel* floaty. Once you **tighten the wing nut and drop the lock pin**, the cradle is fixed between the two posts. The PVC is strapped to that cradle, and the posts are screwed to the base on the ground — so barrel + cradle + posts + base act like **one rigid angled piece**, not something hanging in the air. The pivot is the joint; the clamp + pin freeze that joint.
 
 Optional: add a wood kickstand from cradle to base if you want even more support.
+
+#### Bungee end hanging off the platform?
+
+![Keep breech/bungee end over the wood base](assets/breech-over-platform.png)
+
+If you meant the **plunger/bungee end** is not sitting above the wood — yes, that can happen with a short base and a pivot too far back.
+
+**Fix (still ≤70 cm):**
+1. Make the base **longer toward the back** (~60 cm is fine under the 70 cm limit) so the breech stays over wood when aimed up.
+2. Put the **pivot closer to the muzzle** on the cradle (about 2/3 forward). Tilting up then drops the bungee end down over the platform instead of leaving it in empty air.
+3. Optional: a short **rear rest** block on the base under the breech.
+
+Cocking should happen over the platform, not out in space.
 
 #### What the wing nut screws onto (and why straight posts are fine)
 
