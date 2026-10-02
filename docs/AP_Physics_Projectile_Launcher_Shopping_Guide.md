@@ -111,6 +111,19 @@ You already have the wood right: **two posts + cradle for PVC + bolt so it can r
 
 That is the whole metal story. The bolt does not pick degrees. The wing nut does not pick degrees. You aim by tilting the cradle to a painted mark; the wing nut only switches between “can move” and “stays put.”
 
+#### Why there are TWO posts (and will the cradle hit the base?)
+
+![Both posts clamp; pivot height keeps cradle clear of the base](assets/both-posts-and-clearance.png)
+
+**Other post:** The bolt head is on one side, the wing nut on the other. Tightening pulls them together, so **both posts squeeze the cradle**. The second post is the other jaw of the clamp and also stops sideways wobble. You only *paint* the degree marks on one post so your eye has one scale.
+
+**Hitting the floor:** Can happen only if the pivot is too low or the cradle sticks too far behind the bolt (rear dips as angle goes up). With this cut list it should clear:
+- pivot high (~8 cm from top of 35 cm posts)
+- cradle hole only ~6 cm from the rear (most length points forward)
+- you only need **35°–55°**, not near-vertical
+
+Optional: screw a small wood stop on a post so the cradle cannot swing past 55°.
+
 #### What the wing nut screws onto (and why straight posts are fine)
 
 ![Wing nut on bolt threads; pivot geometry vs hypotenuse trap](assets/wingnut-threads-and-pivot-geometry.png)
