@@ -83,6 +83,20 @@ Actual 1×3 size is about **0.75" × 2.5"**.
 3. Mark **35°, 40°, 45°, 50°, 55°** on the outside of one upright.  
 4. Put a Sharpie pointer on the cradle cheek that lines up with those marks.
 
+#### How the wing nut relates to exact degrees (important)
+
+**The wing nut does not choose 35° vs 55°.** It only locks or unlocks.
+
+![Wing nut locks; painted marks pick the degree](assets/wingnut-vs-degree-marks.png)
+
+| Part | Job |
+|---|---|
+| **Painted marks on the upright** (35 / 40 / 45 / 50 / 55) | These are the degree choices |
+| **Pointer on the cradle** | You tilt until this lines up with a mark |
+| **Wing nut** | Loosen = allow tilt; tighten = squeeze uprights against cradle so friction freezes that aim |
+
+**To set exactly 45°:** loosen wing nut → tilt cradle until pointer hits the **45°** paint mark → tighten wing nut until it won’t slip → then cock/fire. Turning the wing nut more does *not* increase the angle; it only clamps harder.
+
 ### Where to drive from Trabuco Canyon
 
 ![Store route from Trabuco Canyon to Home Depot and Harbor Freight Lake Forest](assets/trabuco-canyon-store-route.png)
