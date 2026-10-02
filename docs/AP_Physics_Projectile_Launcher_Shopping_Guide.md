@@ -121,6 +121,19 @@ That is the whole metal story. The bolt does not pick degrees. The wing nut does
 
 **Not high vs low:** both posts are equally tall. The bolt is **horizontal** through matching holes. Put the **bolt head on the left** and the **wing nut on the right** (or swap — either works). There is no “near the ground” metal piece and “higher” metal piece.
 
+#### Elevation vs compass direction (“50° north of east”)
+
+![Elevation tilt vs compass azimuth](assets/elevation-vs-azimuth.png)
+
+These are **two different angles**:
+
+| Kind | Meaning | How you set it on this launcher |
+|---|---|---|
+| **Elevation** | How far **up** from horizontal (project: 35°–55°) | Tilt cradle; lock with wing nut; read painted marks |
+| **Azimuth / compass** | Which way you face on the ground (e.g. 50° north of east) | **Turn the whole base** so the muzzle points that way |
+
+“50° north of east” is **not** what the cradle joint is for, and it is **not** “shooting at 90°.” Facing east with the barrel tilted 50° up is elevation 50°. Facing 50° north of east is just rotating the launcher on the floor; left/right posts stay left/right of the barrel.
+
 **Hitting the floor:** Can happen only if the pivot is too low or the cradle sticks too far behind the bolt (rear dips as angle goes up). With this cut list it should clear:
 - pivot high (~8 cm from top of 35 cm posts)
 - cradle hole only ~6 cm from the rear (most length points forward)
