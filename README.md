@@ -1,20 +1,21 @@
 # AP Physics Projectile Launcher
 
-Shopping and build guide for the AP Physics projectile launcher project (Trabuco Canyon, **≤ $40** budget).
+Complete project pack for the AP Physics golf-ball launcher (Trabuco Canyon, **≤ $40**).
 
 ## Start here
 
-Open the full guide: **[docs/AP_Physics_Projectile_Launcher_Shopping_Guide.md](docs/AP_Physics_Projectile_Launcher_Shopping_Guide.md)**
+**Full project (everything in one place):**  
+**[docs/COMPLETE_PROJECT.md](docs/COMPLETE_PROJECT.md)**
 
-It includes:
+Includes requirements, shopping SKUs, cut list, build steps, bungee system, trigger, angle lock, stability, fire procedure, data/calc notes, and scoring checklist.
 
-- Exact Home Depot / Harbor Freight item numbers (SKUs)
-- Path D1 cart totaling ~$30 after tax (under the $40 limit)
-- Constraint checklist mapped to every rubric rule
-- Labeled product collage, assembly diagram, and store route images
-- Build steps, receipt checklist, and test-fire tips
+Master blueprint: [`docs/assets/complete-project-blueprint.png`](docs/assets/complete-project-blueprint.png)
 
-## Quick Path D1 total
+## Also available
+
+- Detailed shopping companion: [docs/AP_Physics_Projectile_Launcher_Shopping_Guide.md](docs/AP_Physics_Projectile_Launcher_Shopping_Guide.md)
+
+## Path D1 budget
 
 | | |
 |---|---|
