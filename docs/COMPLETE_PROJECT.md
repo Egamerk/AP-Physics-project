@@ -286,3 +286,24 @@ v = \sqrt{\frac{R g}{\sin 2\theta}}
 ---
 
 **Bottom line:** Build the wood cradle between two posts, lock elevation with bolt/wing-nut/pin, power with cradle-mounted forward bungees into a plunger, fire with a side-pull pin, keep the breech over the base, stay under $40, and bring typed velocity data.
+
+---
+
+## 13) Optional unlimited-budget variant — dual guided springs
+
+If money were not a limit, swap the HDX bungees for **two matched extension springs** on opposite sides of the barrel. Keep the same cradle, angle lock, pin trigger, muzzle stop, and long base.
+
+![Spring launcher blueprint (budget ignored)](assets/spring-launcher-blueprint.png)
+
+**What changes vs Path D1**
+- Dual **extension springs** with known rate \(k\), anchored forward on the cradle and on a plunger rear crossbar
+- Stainless plunger rod + bushings so it doesn’t bind
+- Indexed angle plate + stronger clamp
+- Cable-style trigger release (still a pin; still rubric-legal)
+
+**Energy:** cocking stretches both springs by \(x\);  
+\( PE = 2 \times \tfrac12 k x^2 = k x^2 \) (identical pair).  
+Release → force \(F = kx\) accelerates the plunger → ball launch → plunger hits muzzle stop.
+
+**Why it’s “better” when budget is open:** more repeatable velocity for calculated aiming, cleaner Hooke’s-law lab story, less rubber creep.  
+**For the real $40 project:** still use the bungee Path D1 build above.

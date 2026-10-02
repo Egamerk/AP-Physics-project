@@ -14,6 +14,7 @@ Master blueprint: [`docs/assets/complete-project-blueprint.png`](docs/assets/com
 ## Also available
 
 - Detailed shopping companion: [docs/AP_Physics_Projectile_Launcher_Shopping_Guide.md](docs/AP_Physics_Projectile_Launcher_Shopping_Guide.md)
+- Optional unlimited-budget spring variant blueprint: [docs/assets/spring-launcher-blueprint.png](docs/assets/spring-launcher-blueprint.png) (see section 13 in the complete project)
 
 ## Path D1 budget
 
