@@ -97,6 +97,17 @@ Actual 1×3 size is about **0.75" × 2.5"**.
 
 **To set exactly 45°:** loosen wing nut → tilt cradle until pointer hits the **45°** paint mark → tighten wing nut until it won’t slip → then cock/fire. Turning the wing nut more does *not* increase the angle; it only clamps harder.
 
+#### What the wing nut screws onto (and why straight posts are fine)
+
+![Wing nut on bolt threads; pivot geometry vs hypotenuse trap](assets/wingnut-threads-and-pivot-geometry.png)
+
+1. **What it screws onto:** the **metal threads of the carriage bolt**.  
+   Push the bolt through the wood holes → the threaded end sticks out past the second upright → spin the wing nut onto that threaded end.  
+   The wood only has clearance holes (5/16"). You are **not** screwing the wing nut into a post.
+
+2. **Why your hypotenuse worry does not apply here:** that problem happens if you hinge the barrel at one place (A) and try to pin it through a **second** fixed hole (B) on a straight post — then distance A→B changes with angle, so you’d need a slot.  
+   **Our joint uses one bolt as the only pivot.** The cradle spins in a circle around that bolt. Radius stays constant, so straight posts are fine — they just hold the bolt still while the cradle rotates on it.
+
 ### Where to drive from Trabuco Canyon
 
 ![Store route from Trabuco Canyon to Home Depot and Harbor Freight Lake Forest](assets/trabuco-canyon-store-route.png)
