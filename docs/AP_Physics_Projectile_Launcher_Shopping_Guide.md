@@ -121,7 +121,9 @@ That is the whole metal story. The bolt does not pick degrees. The wing nut does
 
 ![Same left/right bolt layout with launcher aimed 50° north of east](assets/left-right-bolt-at-50-north-of-east.png)
 
-**Not high vs low:** both posts are equally tall. The bolt is **horizontal** through matching holes. Put the **bolt head on the left** and the **wing nut on the right** (or swap — either works). There is no “near the ground” metal piece and “higher” metal piece. If you aim **50° north of east**, you only rotate the whole base on the floor — posts stay left/right of the barrel at the same height.
+![Golf ball path at 50° north of east; launcher posts unchanged](assets/golf-ball-50-north-of-east.png)
+
+**Not high vs low:** both posts are equally tall. The bolt is **horizontal** through matching holes. Put the **bolt head on the left** and the **wing nut on the right** (or swap — either works). There is no “near the ground” metal piece and “higher” metal piece. If the **golf ball** should go **50° north of east**, that is the ball’s compass path — point the muzzle that way (turn the base). Posts stay left/right at the same height; we do not rebuild them high/low.
 
 #### Elevation vs compass direction (“50° north of east”)
 
