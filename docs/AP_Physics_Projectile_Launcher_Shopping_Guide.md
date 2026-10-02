@@ -119,7 +119,9 @@ That is the whole metal story. The bolt does not pick degrees. The wing nut does
 
 ![Bolt head LEFT, wing nut RIGHT — both posts same height](assets/left-right-bolt-wingnut.png)
 
-**Not high vs low:** both posts are equally tall. The bolt is **horizontal** through matching holes. Put the **bolt head on the left** and the **wing nut on the right** (or swap — either works). There is no “near the ground” metal piece and “higher” metal piece.
+![Same left/right bolt layout with launcher aimed 50° north of east](assets/left-right-bolt-at-50-north-of-east.png)
+
+**Not high vs low:** both posts are equally tall. The bolt is **horizontal** through matching holes. Put the **bolt head on the left** and the **wing nut on the right** (or swap — either works). There is no “near the ground” metal piece and “higher” metal piece. If you aim **50° north of east**, you only rotate the whole base on the floor — posts stay left/right of the barrel at the same height.
 
 #### Elevation vs compass direction (“50° north of east”)
 
