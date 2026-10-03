@@ -289,6 +289,39 @@ v = \sqrt{\frac{R g}{\sin 2\theta}}
 
 ---
 
+## 12b) Build clarifications — pivot, springs, trigger (exact places)
+
+![Pivot, spring anchors, angle lock vs trigger lock](assets/build-details-pivot-springs-trigger.png)
+
+### Where is the pivot bolt?
+- **Not through the PVC.** Only through **posts + wood cradle**.
+- On a **28 cm cradle**, drill the pivot **~18 cm from the rear** (~10 cm from the muzzle end) ≈ **2/3 of the way toward the muzzle**.
+- Halfway (14 cm) works mechanically but leaves more breech hanging off the base when aimed up — **prefer ~2/3 to muzzle**.
+
+### Where do both spring (or bungee) ends anchor?
+| End | Mount on | Location |
+|---|---|---|
+| **A (fixed)** | **Cradle** | Forward, toward the **muzzle** (eye bolt / spring hook on cradle wood) |
+| **B (moving)** | **Plunger** | **Rear** of plunger (crossbar or hook on the dowel behind the breech) |
+
+Use **two** springs/strands, one on each side of the barrel, same length.  
+Cock = pull plunger **back** (stretch). Fire = springs pull plunger **forward**.
+
+### Two locking systems (different places)
+
+**A — Angle lock** (holds elevation 35–55°)  
+- Hole through **upright post + cradle cheek** at each painted degree.  
+- Set angle → tighten wing nut → drop **lock pin**.  
+- Does **not** fire the ball.
+
+**B — Trigger lock** (holds cock / stores spring energy)  
+- Hole through the **PVC barrel wall only**, near the **breech**.  
+- When plunger is fully cocked, a **notch in the dowel** lines up under that hole (~5–8 cm forward of the breech end).  
+- Drop **trigger pin** into the notch; tie string/cable.  
+- Fire by pulling the pin **sideways** out of the notch.
+
+---
+
 ## 13) Optional unlimited-budget variant — dual guided springs
 
 If money were not a limit, swap the HDX bungees for **two matched extension springs** on opposite sides of the barrel. Keep the same cradle, angle lock, pin trigger, muzzle stop, and long base.
