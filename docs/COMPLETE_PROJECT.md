@@ -320,6 +320,21 @@ Cock = pull plunger **back** (stretch). Fire = springs pull plunger **forward**.
 - Drop **trigger pin** into the notch; tie string/cable.  
 - Fire by pulling the pin **sideways** out of the notch.
 
+### Will the trigger pin lock up under high spring/bungee force?
+
+**It can — if the notch is a square step and the pin is rough.** Spring force shoves the plunger into the pin, friction skyrockets, and a sideways pull feels stuck.
+
+![Trigger pin bind vs ramp release](assets/trigger-pin-bind-fix.png)
+
+**Fixes (build these in):**
+1. **Smooth steel pin**, slightly loose in the barrel hole (not a rusty nail).
+2. Cut the plunger notch with a slight **rearward ramp** so spring force has a component that helps push the pin **out**, not only into the hole wall.
+3. Pull **straight sideways** with a short stiff string/cable — firm yank.
+4. Test release on a lighter cock first; then go to full power.
+5. Optional: a small lever that pulls the pin for you (more force, same idea).
+
+This is normal for pin/sear triggers — not a reason to ditch the plunger. Angle lock pin is separate and does not see this load.
+
 ---
 
 ## 13) Optional unlimited-budget variant — dual guided springs
